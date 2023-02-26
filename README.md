@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+####🔭 I’m currently working on my upcoming Steam game Commanders and Commandos!
+####🌱 I’m currently studying Computer Science at the University of Manitoba!
+####📫 How to reach me: gordoco416@gmail.com
+####📺 Check out my Itch page: https://gordocogames.itch.io/
+
 <!--
 **Gordoco/Gordoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
