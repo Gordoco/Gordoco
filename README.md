@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 🔭 I’m currently working on my upcoming Steam game Commanders and Commando!
-#### 🤖 I'm working on an Artifical Intelligence simulation for my Honors Thesis.
+#### 🤖 I'm working on an [Artifical Intelligence simulation](https://github.com/Gordoco/AISimulator) for my Honors Thesis.
 #### 🌱 I’m currently studying Computer Science at the University of Manitoba!  
 #### 📫 How to reach me: gordoco416@gmail.com  
 #### 📺 Check out my Itch page: https://gordocogames.itch.io/  
