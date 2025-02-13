@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-#### 🔭 I’m currently working on my upcoming Steam game Loopbreaker!
-#### 🤖 I've just finished [Artifical Intelligence simulation](https://github.com/Gordoco/AISimulator) for my Honors Thesis.
-#### 🌱 I’ve just recently graduated Computer Science at the University of Manitoba!  
+#### 🔭 I’m currently working on some exciting game dev projects Loopbreaker and Promethean!
+#### 🌱 I’ve graduated Computer Science at the University of Manitoba!  
 #### 📫 How to reach me: gordoco416@gmail.com  
 #### 📺 Check out my Itch page: https://gordocogames.itch.io/  
 
